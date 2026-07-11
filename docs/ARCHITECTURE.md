@@ -36,7 +36,7 @@ NitroRAG was developed to explore the physical hardware constraints of serving L
 ## 2. System Walkthrough
 
 <p align="center">
-  <img src="assets/architecture.svg"
+  <img src="../assets/architecture.svg"
        width="900">
 </p>
 
@@ -54,7 +54,7 @@ NitroRAG was developed to explore the physical hardware constraints of serving L
 *Relevant Files: `src/JAG_new.cpp`, `src/Server_VectorDB.cpp`*
 
 <p align="center">
-  <img src="assets/Graph Routing.svg"
+  <img src="../assets/Graph Routing.svg"
        width="900">
 </p>
 
@@ -89,7 +89,7 @@ We abandoned strict boolean pruning for continuous navigational guidance.
 
 *Relevant Files: `src/PagedMemory.hpp`*
 <p align="center">
-  <img src="assets/Paged Attention.svg"
+  <img src="../assets/Paged Attention.svg"
        width="900">
 </p>
 
