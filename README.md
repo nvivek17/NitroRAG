@@ -1,5 +1,5 @@
 # NitroRAG
-**A C++ Retrieval-Augmented Generation Backend from First Principles**
+**A C++ Retrieval-Augmented Generation System from First Principles**
 
 **Repository Goal:** NitroRAG is *not* intended to compete with production inference engines like vLLM or llama.cpp. The project focuses on understanding the systems techniques used in modern LLM infrastructure—such as memory paging, cache locality, and graph routing—by implementing them from first principles and measuring their behaviors under concurrent workloads.
 
